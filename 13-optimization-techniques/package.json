@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@million/lint": "^1.0.0-rc.84",
+    "install": "^0.13.0",
+    "npm": "^10.8.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
